@@ -12,7 +12,7 @@ System requirements
 * Python 3.10
 * Works on Linux, Windows, macOS, BSD
 
-Stek
+Stack
 ----------
 * Python 3.8
 
